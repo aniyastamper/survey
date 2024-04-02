@@ -1,0 +1,20 @@
+
+[
+    {
+        "type": "input",
+        "name": "firstName",
+        "message": "What is your first name?"
+    },
+
+    {
+        "type": "input",
+        "name": "lastName",
+        "message": "What is your last name?"
+    },
+
+    {
+        "type": "input",
+        "name": "Email",
+        "message": "What is your email name?"
+    }
+]

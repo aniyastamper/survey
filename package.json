@@ -1,0 +1,19 @@
+{
+  "name": "explore-survey",
+  "version": "1.0.0",
+  "description": "A random survey app ",
+  "main": "app.js ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Survey",
+    "School",
+    "JavaScript"
+  ],
+  "author": "Aniya Stamper",
+  "license": "ISC",
+  "dependencies": {
+    "enquirer": "^2.4.1"
+  }
+}
